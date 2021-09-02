@@ -1,0 +1,9 @@
+# Site settings
+title: alpha.omicron.seven
+author:
+  name: The Earl of Lydical
+  email: lord@lydican.com
+description: "Musing on Science & Progress"
+
+# Build settings
+remote_theme: jekyll/minima
