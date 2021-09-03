@@ -6,8 +6,8 @@ author:
 description: "Musings on Science & Progress, Technology & Medicine, Music & Mathematics"
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: rundocs/jekyll-rtd-theme
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-exclude: .DS_Store
+#exclude: .DS_Store
