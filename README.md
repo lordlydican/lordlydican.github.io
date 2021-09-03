@@ -20,3 +20,6 @@
 
 > *Death smiles at us all sometimes - all we can do is smile back*
 
+'''warning
+Someone needs to cook the duck tonight.  Eating is strongly advised.
+'''
